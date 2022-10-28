@@ -8,5 +8,5 @@ null,
 {"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"케이시","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"엘리엇","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"로자","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":9,"name":"비스라님","nickname":"열정적인 탐구자","note":"","profile":"귀족 가문에서 태어난 마법사.\n무언가를 찾으러 에델 섬에 왔다."}
+{"id":9,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"비스라님","nickname":"열정적인 탐구자","note":"","profile":"귀족 가문에서 태어난 마법사.\n무언가를 찾으러 에델 섬에 왔다."}
 ]
